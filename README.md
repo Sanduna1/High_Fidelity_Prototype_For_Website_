@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vijitha Yapa Bookshop - High-Fidelity Prototype</title>
+    
 </head>
 <body>
     <h1>📚 Vijitha Yapa Bookshop Website - High-Fidelity Prototype</h1>
